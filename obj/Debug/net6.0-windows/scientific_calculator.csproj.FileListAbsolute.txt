@@ -1,0 +1,17 @@
+D:\Azfar\Visual Studio\Projects\scientific_calculator\bin\Debug\net6.0-windows\scientific_calculator.exe
+D:\Azfar\Visual Studio\Projects\scientific_calculator\bin\Debug\net6.0-windows\scientific_calculator.deps.json
+D:\Azfar\Visual Studio\Projects\scientific_calculator\bin\Debug\net6.0-windows\scientific_calculator.runtimeconfig.json
+D:\Azfar\Visual Studio\Projects\scientific_calculator\bin\Debug\net6.0-windows\scientific_calculator.dll
+D:\Azfar\Visual Studio\Projects\scientific_calculator\bin\Debug\net6.0-windows\scientific_calculator.pdb
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.csproj.AssemblyReference.cache
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.Form1.resources
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.csproj.GenerateResource.cache
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.AssemblyInfoInputs.cache
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.AssemblyInfo.cs
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.csproj.CoreCompileInputs.cache
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.dll
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\refint\scientific_calculator.dll
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.pdb
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\scientific_calculator.genruntimeconfig.cache
+D:\Azfar\Visual Studio\Projects\scientific_calculator\obj\Debug\net6.0-windows\ref\scientific_calculator.dll
